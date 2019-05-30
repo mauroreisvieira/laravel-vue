@@ -1,7 +1,5 @@
 # Using Vue with Laravel
 
-![](http://res.cloudinary.com/dv2546q8h/image/upload/v1524389433/using_vue_with_laravel_ba3xhr.gif)
-
 This project creates a simple SPA application using Laravel and VueJS.
 
 ### Prerequisites
@@ -15,27 +13,27 @@ This project creates a simple SPA application using Laravel and VueJS.
 
 #### Server Side
 
-**Composer Install**
+**Composer Install**\
 `curl -sS https://getcomposer.org/installer | sudo php -- --install-dir=/usr/local/bin --filename=composer`
 
-**Laravel**
+**Laravel**\
 `composer global require laravel/installer`
 
-**Artisan Key**
+**Artisan Key**\
 `php artisan key:generate`
 
-**Environment**
+**Environment**\
 `.env` file
 
-**RUN**
+**RUN**\
 `php artisan serve`
 
 #### Server Side
 
-**NPM/YARN**
+**NPM/YARN**\
 `yarn install` or `npm install`
 
-**RUN**
+**RUN**\
 `yarn run development` or `npm run development`
 
 
